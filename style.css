@@ -1,0 +1,35 @@
+body {
+	/*background-color: #161722;
+	#434656*/
+	background-image: linear-gradient(to left, #161722, #211f2e, #2e263a, #3d2d44, #4d344e);
+	font-family: 'Lato', sans-serif;
+}
+
+.top-m{
+	margin-top: 10rem;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700 !important;
+	font-size: 10rem !important;
+}
+
+
+.circle {
+	position: relative;
+    float: initial;
+	width: 540px;
+	height: 744px;
+	shape-outside: circle();
+	clip-path: circle();
+	background: #C4C4C4;
+}
+
+.shoe {
+	position: absolute;
+	top: 0;
+	right: 15%;
+	transform: rotate(51deg);
+	margin-top: 50px;
+}
