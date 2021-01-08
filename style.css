@@ -17,6 +17,16 @@ h1 {
 }
 
 
+.button-piola{
+    background: #e7b601;
+    border: none;
+    color: black;
+    width: 240px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+
 .circle {
 	position: relative;
     float: initial;
@@ -34,3 +44,4 @@ h1 {
 	transform: rotate(51deg);
 	margin-top: 50px;
 }
+
