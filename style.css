@@ -3,6 +3,7 @@ body {
 	#434656*/
 	background-image: linear-gradient(to left, #161722, #211f2e, #2e263a, #3d2d44, #4d344e);
 	font-family: 'Lato', sans-serif;
+	overflow-x: hidden;
 }
 
 .top-m{
